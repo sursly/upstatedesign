@@ -73,7 +73,7 @@
   <li><a href="http://rtistrybydesign.com"><h2>Rtistry By Design</h2><p><span class="location">📍Binghamton</span> <span class="site">👁rtistrybydesign.com</span></p></a></li>
   <li><a href="https://www.sidekickcreative.us/"><h2>Sidekick Creative</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁sidekickcreative.us</span></p></a></li>
   <li><a href="http://spiraldesign.com"><h2>Spiral Design Studio</h2><p><span class="location">📍Cohoes</span> <span class="site">👁spiraldesign.com</span></p></a></li>
-  <li><a href="http://www.tallgirlsdesign.com/"><h2>Tall Girls Design</h2><p><span class="location">📍Orchard Park>/span> <span class="site">👁tallgirlsdesign.com</span></p></a></li>
+  <li><a href="http://www.tallgirlsdesign.com/"><h2>Tall Girls Design</h2><p><span class="location">📍Orchard Park</span> <span class="site">👁tallgirlsdesign.com</span></p></a></li>
   <li><a href="http://thirstyfishgraphicdesign.com"><h2>Thirsty Fish</h2><p><span class="location">📍Corning</span> <span class="site">👁thirstyfishgraphicdesign.com</span></p></a></li>
   <li><a href="https://www.tonecreative.com"><h2>Tone Creative</h2><p><span class="location">📍Saratoga Springs</span> <span class="site">👁tonecreative.com</span></p></a></li>
   <li><a href="http://trampolinedesign.com"><h2>Trampoline</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁trampolinedesign.com</span></p></a></li>
