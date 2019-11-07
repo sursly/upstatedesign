@@ -74,8 +74,8 @@
 </section>
 <footer id="footer">
 <p>Latest Update: November 2019<br />
-Maintained by: <a href="https://www.madebytyler.com">Tyler</a> via <a href="#">Github</a><br />
-Upstate designer? <a href="#">Submit your info</a></p>
+Maintained by: <a href="https://www.madebytyler.com">Tyler</a> via <a href="https://github.com/sursly/upstatedesign">Github</a><br />
+Upstate designer? <a href="https://github.com/sursly/upstatedesign/issues/new">Submit your info as an issue</a></p>
 </footer>
 
 
