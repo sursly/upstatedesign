@@ -43,7 +43,7 @@
   <li><a href="https://adgcreative.design"><h2>ADG Creative</h2><p><span class="location">📍Albany</span> <span class="site">👁adgcreative.design</span></p></a></li>
   <li><a href="http://www.weareadjacent.com"><h2>Adjacent</h2><p><span class="location">📍Syracuse</span> <span class="site">👁weareadjacent.com</span></p></a></li>
   <li><a href="http://www.awpny.com"><h2>AWP</h2><p><span class="location">📍Ithaca</span> <span class="site">👁awpny.com</span></p></a></li>
-  <li><a href="http://beardesign.co/"><h2>Bear Design Co.</h2><p><span class="location">📍Schenectady</span> <span class="site">👁beardesign.co/</span></p></a></li>
+  <li><a href="http://beardesign.co"><h2>Bear Design Co.</h2><p><span class="location">📍Schenectady</span> <span class="site">👁beardesign.co</span></p></a></li>
   <li><a href="http://www.bzdesign.com"><h2>BZDesign</h2><p><span class="location">📍Rochester</span> <span class="site">👁bzdesign.com</span></p></a></li>
   <li><a href="http://www.cinderdesign.co/"><h2>Cinder Design Co</h2><p><span class="location">📍Schenectady</span> <span class="site">👁cinderdesign.co</span></p></a></li>
   <li><a href="http://www.cobp.com"><h2>CObP</h2><p><span class="location">📍Ithaca</span> <span class="site">👁cobp.com</span></p></a></li>

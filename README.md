@@ -1,7 +1,7 @@
 # upstatedesign
- _Unoffical Directory of Upstate New York Design Studios/People_
+ _The Abridged and Unofficial Directory of the “Upstate” New York Graphic Design Community_
 
-This all stared because Google Search results have become a joke. I was looking for a graphic design firm in Binghamton, less than an hour from where I live, and the results were garbage. So here you go.
+This all stared because Google Search results have become a joke. All search engine results, really. I was looking for a graphic design firm in Binghamton, less than an hour from where I live, and the results were garbage. So here we are.
 
 ## [upstate.design](https://upstate.design)
 
