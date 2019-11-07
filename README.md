@@ -5,4 +5,4 @@ This all stared because Google Search results have become a joke. I was looking 
 
 ## [upstate.design](https://upstate.design)
 
-Are you a graphic design studio / freelancer and want to be added to the list? [create an issue](https://github.com/sursly/upstatedesign/issues/new) and it will be included in the next batch of additions.
+Are you a graphic design studio / freelancer and want to be added to the list? [Create an issue](https://github.com/sursly/upstatedesign/issues/new) and it will be included in the next batch of additions. Be sure to include the name, website (no social media), and city.
