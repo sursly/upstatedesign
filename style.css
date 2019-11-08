@@ -60,7 +60,7 @@ li a:hover h2 {
 
 }
 span.location {
-  width: 50%;
+  width: 45%;
   display: inline-block;
   text-transform: uppercase;
 }
@@ -68,7 +68,7 @@ span.location {
 li p {
   font-size: 14px;
   width: 55%;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 
 
