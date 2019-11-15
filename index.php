@@ -36,9 +36,11 @@
   <?php $estTime = (new DateTime('America/New_York'))->format('h:i');
   echo $estTime;
   ?></p>
-
+<nav><a href="#studios">Studios</a><a href="#people">People</a></nav>
 <section id="page">
+  <div id="studios">
   <ul>
+  <h3>Studios</h3>
   <li><a href="http://12grainstudio.com"><h2>12 Grain</h2><p><span class="location">📍Lockport</span> <span class="site">👁12grainstudio.com</span></p></a></li>
   <li><a href="https://76west.agency"><h2>76 West</h2><p><span class="location">📍Syracuse</span> <span class="site">👁76west.agency</span></p></a></li>
   <li><a href="https://adgcreative.design"><h2>ADG Creative</h2><p><span class="location">📍Albany</span> <span class="site">👁adgcreative.design</span></p></a></li>
@@ -83,12 +85,21 @@
   <li><a href="https://whitebicycle.com"><h2>White Bicycle</h2><p><span class="location">📍Buffalo</span> <span class="site">👁whitebicycle.com</span></p></a></li>
 
   <li><a href="http://zanzinato.com"><h2>Zanzinato</h2><p><span class="location">📍Ithaca</span> <span class="site">👁zanzinato.com</span></p></a></li>
-  </ul>
+</ul></div>
+
+<div id="people">
+  <ul >
+  <h3>People</h3>
+  <h4>☝️Coming Soon?! Maybe, if this is of interest.</h4>
+
+</div>
 </section>
 <footer id="footer">
-<p>Latest Update: November 2019<br />
-Maintained by: <a href="https://www.madebytyler.com">Tyler</a> via <a href="https://github.com/sursly/upstatedesign">Github</a><br />
-Upstate designer? <a href="https://github.com/sursly/upstatedesign/issues/new">Submit your info as an issue</a></p>
+<p>Upstate studio/designer? <a href="https://github.com/sursly/upstatedesign/issues/new">Submit yourself as an issue</a><br />
+  Latest Update: 14 November 2019<br />
+Made by: <a href="https://www.madebytyler.com">Tyler</a>
+</p>
+
 </footer>
 
 

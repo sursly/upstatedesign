@@ -7,7 +7,7 @@ body {
   background-image: url("upstateplaid.svg");
   background-repeat:repeat-x;
   background-position: top center;
-  background-size: 30px auto;
+  background-size: 20px auto;
   background-attachment: fixed;
   color: black;
 }
@@ -29,18 +29,28 @@ p#timecheck {
   font-size: 11px;
 transform: rotate(-90deg);
 position: fixed;
-right: -30px;
+right: -45px;
+bottom: 95px;
 }
 
 li a {color: black;    text-decoration: none;
-transition: all 0.15s ease-out;
-  -moz-transition: all 0.15s ease-out;
-  -webkit-transition: all 0.15s ease-out;
+transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+}
+
+h1 {
+  margin: 8vw auto 6vw;
 }
 
 #page, h1 {
   max-width: 90%;
-  margin: 5vw auto;
+}
+
+#page {margin: 0 auto 5vw;}
+
+ul {
+  padding: 0 0 100px;
 }
 
 li h2, li p {display: inline-block; vertical-align: middle;}
@@ -49,14 +59,15 @@ li h2 {
   font-size: 2.5vw;
   text-transform: capitalize;
   font-family: "ETC Epilogue";
-  font-variation-settings: "wght" 370, "slnt" 12;
+  font-variation-settings: "wght" 470, "slnt" 7;
   font-style: normal;
   width: 44%;
-
+  position: relative;
+  z-index: 1;
 }
 
 li a:hover h2 {
-  font-variation-settings: "wght" 370, "slnt" 0;
+  font-variation-settings: "wght" 420, "slnt" 0;
 
 }
 span.location {
@@ -76,7 +87,7 @@ li p {
 li a {display: block; padding: 1vw;}
 
 li a:hover {
-  background: rgba(255,255,255,0.2);
+  background: rgba(255,255,255,1);
   transform: scale(1.02);
 }
 
@@ -85,8 +96,8 @@ li a:hover p {
 }
 
 h1 {
-  font-size: 1.5vw;
-  margin: 5em auto 0;
+  font-size: 1.75vw;
+
   font-family: "ETC Epilogue";
 font-variation-settings: "wght" 300, "slnt" 12;
 text-transform: uppercase;
@@ -103,15 +114,87 @@ text-transform: uppercase;
   color: black;
   text-decoration: underline;
 }
+
+
+nav {
+  position: fixed;
+  top: 5vw;
+  right: 5vw;
+  text-align: center;
+  padding: 0;
+  z-index: 3;
+}
+
+nav a {
+  padding: 5px 0;
+  margin: 0 10px 0 0;
+  display: inline-block;
+  color: black;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid black;
+}
+
+div h3 {
+  font-size: 2vw;
+  background: black;
+  color: #ffd757;
+  padding: 1vw;
+  position: sticky;
+  top: 0px;
+  z-index: 2;
+  margin-bottom: 4vw;
+  line-height: 1;
+}
+
+
+
+
+nav a:active, nav a:hover, nav a:focus {
+  background: white;
+}
+
+div h4 {
+  font-size: 20px;
+  padding: 30px 0;
+}
+
+::selection {
+  background: white;
+}
+/*responsive styles below ---------------------------------------------*/
+/*responsive styles below ---------------------------------------------*/
 /*responsive styles below ---------------------------------------------*/
 
 @media screen and (max-width: 1023px) {
+body {
+  padding-top: 100px;
+}
+
+nav {
+  top: 50px;
+}
+
+div#studios, div#people {
+  padding-top: 100px;
+}
+
+div h3 {
+  font-size: 18px;
+}
+
 li h2 {font-size: 22px;}
 
 li h2, li p, span.location {display: block; width: 100%;}
 
 h1 {
-  font-size: 16px;
+  font-size: 18px;
+  margin: 20px auto;
+}
+
+div#studios, div#people {
+  padding-top: 20px;
 }
 
 #timecheck {
