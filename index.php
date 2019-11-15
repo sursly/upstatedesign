@@ -90,14 +90,15 @@
 <div id="people">
   <ul >
   <h3>People</h3>
-  <h4>☝️Coming Soon?! Maybe, if this is of interest.</h4>
-
+  <h4>Currently taking names (see below 👇) </h4>
+  <p></p>
 </div>
 </section>
 <footer id="footer">
-<p>Upstate studio/designer? <a href="https://github.com/sursly/upstatedesign/issues/new">Submit yourself as an issue</a><br />
-  Latest Update: 14 November 2019<br />
-Made by: <a href="https://www.madebytyler.com">Tyler</a>
+<p>Upstate studio/designer? <a href="https://forms.gle/6AirzT68TySgaxWS9">Submit here.</a><br />
+  Latest Update: 15 November 2019<br />
+Made by <a href="https://www.madebytyler.com">Tyler</a><br />
+This is on <a href="https://github.com/sursly/upstatedesign">Github</a>
 </p>
 
 </footer>
