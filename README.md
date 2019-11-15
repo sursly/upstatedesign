@@ -5,4 +5,4 @@ This all stared because Google Search results have become a joke. All search eng
 
 ## [upstate.design](https://upstate.design)
 
-Are you a graphic design studio / freelancer and want to be added to the list? [Create an issue](https://github.com/sursly/upstatedesign/issues/new) and it will be included in the next batch of additions. Be sure to include the name, website (no social media), and city.
+Are you a graphic design studio / freelancer and want to be added to the list? [fill out this quick form](https://forms.gle/AyEsh1MMMKnY2gEt5) and it will be included in the next batch of additions. 

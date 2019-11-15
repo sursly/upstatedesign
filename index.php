@@ -42,12 +42,13 @@
   <ul>
   <h3>Studios</h3>
   <li><a href="http://12grainstudio.com"><h2>12 Grain</h2><p><span class="location">📍Lockport</span> <span class="site">👁12grainstudio.com</span></p></a></li>
+  <li><a href="http://29designstudio.com"><h2>29 Design Studio</h2><p><span class="location">📍Rochester</span> <span class="site">👁29designstudio.com</span></p></a></li>
   <li><a href="https://76west.agency"><h2>76 West</h2><p><span class="location">📍Syracuse</span> <span class="site">👁76west.agency</span></p></a></li>
   <li><a href="https://adgcreative.design"><h2>ADG Creative</h2><p><span class="location">📍Albany</span> <span class="site">👁adgcreative.design</span></p></a></li>
   <li><a href="http://www.weareadjacent.com"><h2>Adjacent</h2><p><span class="location">📍Syracuse</span> <span class="site">👁weareadjacent.com</span></p></a></li>
   <li><a href="https://advokate.net"><h2>Advokate</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁advokate.net</span></p></a></li>
+  <li><a href="https://www.aslancreativestudio.com"><h2>Aslan Creative Studio</h2><p><span class="location">📍Albany</span> <span class="site">👁aslancreativestudio.com</span></p></a></li>
   <li><a href="http://www.awpny.com"><h2>AWP</h2><p><span class="location">📍Ithaca</span> <span class="site">👁awpny.com</span></p></a></li>
-  <li><a href="http://beardesign.co"><h2>Bear Design Co.</h2><p><span class="location">📍Schenectady</span> <span class="site">👁beardesign.co</span></p></a></li>
   <li><a href="https://blackdogllc.com"><h2>Black Dog</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁blackdogllc.com</span></p></a></li>
   <li><a href="http://www.bzdesign.com"><h2>BZDesign</h2><p><span class="location">📍Rochester</span> <span class="site">👁bzdesign.com</span></p></a></li>
   <li><a href="http://www.cinderdesign.co/"><h2>Cinder Design Co</h2><p><span class="location">📍Schenectady</span> <span class="site">👁cinderdesign.co</span></p></a></li>
@@ -66,12 +67,15 @@
   <li><a href="http://www.irondesign.com"><h2>Iron Design</h2><p><span class="location">📍Ithaca</span> <span class="site">👁irondesign.com</span></p></a></li>
   <li><a href="http://www.id29.com"><h2>ID29</h2><p><span class="location">📍Troy</span> <span class="site">👁id29.com</span></p></a></li>
   <li><a href="http://www.idea-kraft.com"><h2>Idea Kraft</h2><p><span class="location">📍Binghamton</span> <span class="site">👁idea-kraft.com</span></p></a></li>
+  <li><a href="https://www.kennason.com"><h2>Kennason UX Consulting</h2><p><span class="location">📍Albany</span> <span class="site">👁kennason.com</span></p></a></li>
+  <li><a href="https://kingcrabdesigns.com"><h2>King Crab Designs</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁kingcrabdesigns.com</span></p></a></li>
   <li><a href="http://www.lunchboxbrain.com"><h2>Lunchboxbrain</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁lunchboxbrain.com</span></p></a></li>
   <li><a href="http://www.tothelab.co"><h2>The Lab Creative</h2><p><span class="location">📍Syracuse</span> <span class="site">👁tothelab.co</span></p></a></li>
   <li><a href="http://www.minervadesign.com"><h2>Minerva</h2><p><span class="location">📍Rochester</span> <span class="site">👁minervadesign.com</span></p></a></li>
   <li><a href="http://www.moonfarmer.com"><h2>Moonfarmer</h2><p><span class="location">📍Kingston</span> <span class="site">👁moonfarmer.com</span></p></a></li>
   <li><a href="https://mpwmarketing.com"><h2>MPW</h2><p><span class="location">📍Clinton</span> <span class="site">👁mpwmarketing.com</span></p></a></li>
   <li><a href="http://typeworkstudio.com"><h2>OtherWisz Creative</h2><p><span class="location">📍Buffalo</span> <span class="site">👁otherwisz.com</span></p></a></li>
+  <li><a href="http://readymixdesign.com"><h2>Ready Mix Design + Letterpress</h2><p><span class="location">📍Troy</span> <span class="site">👁readymixdesign.com</span></p></a></li>
   <li><a href="http://rtistrybydesign.com"><h2>Rtistry By Design</h2><p><span class="location">📍Binghamton</span> <span class="site">👁rtistrybydesign.com</span></p></a></li>
   <li><a href="https://www.sidekickcreative.us/"><h2>Sidekick Creative</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁sidekickcreative.us</span></p></a></li>
   <li><a href="http://spiraldesign.com"><h2>Spiral Design Studio</h2><p><span class="location">📍Cohoes</span> <span class="site">👁spiraldesign.com</span></p></a></li>
@@ -88,10 +92,12 @@
 </ul></div>
 
 <div id="people">
-  <ul >
+  <ul>
   <h3>People</h3>
-  <h4>Currently taking names (see below 👇) </h4>
-  <p></p>
+  <li><a href="http://jesse.paris"><h2>Jesse Reichenstein</h2><p><span class="location">📍Kingston</span> <span class="site">👁jesse.paris</span></p></a></li>
+  <li><a href="http://joshrigney.com"><h2>Josh Rigney</h2><p><span class="location">📍Kingston</span> <span class="site">👁joshrigney.com</span></p></a></li>
+  <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁pjengel.com</span></p></a></li>
+</ul>
 </div>
 </section>
 <footer id="footer">
