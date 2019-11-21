@@ -57,6 +57,7 @@
   <li><a href="https://www.buffalodesignstudio.com"><h2>Buffalo Design Studio</h2><p><span class="location">📍Buffalo</span> <span class="site">👁buffalodesignstudio.com</span></p></a></li>
   <li><a href="http://www.bzdesign.com"><h2>BZDesign</h2><p><span class="location">📍Rochester</span> <span class="site">👁bzdesign.com</span></p></a></li>
 
+  <li><a href="https://camilographics.com"><h2>Camillo Graphics</h2><p><span class="location">📍Ithaca</span> <span class="site">👁camilographics.com</span></p></a></li>
   <li><a href="http://www.cinderdesign.co/"><h2>Cinder Design Co</h2><p><span class="location">📍Schenectady</span> <span class="site">👁cinderdesign.co</span></p></a></li>
   <li><a href="http://www.cleanslateflx.com"><h2>Clean Slate</h2><p><span class="location">📍Bath</span> <span class="site">👁cleanslateflx.com</span></p></a></li>
   <li><a href="http://www.cobp.com"><h2>CObP</h2><p><span class="location">📍Ithaca</span> <span class="site">👁cobp.com</span></p></a></li>
@@ -74,6 +75,7 @@
   <li><a href="https://giansantidesign.com/"><h2>Giansanti Design</h2><p><span class="location">📍Syracuse</span> <span class="site">👁giansantidesign.com</span></p></a></li>
 
   <li><a href="https://hanerino.com/"><h2>Hanerino</h2><p><span class="location">📍Rochester</span> <span class="site">👁hanerino.com</span></p></a></li>
+  <li><a href="https://helmux.com/"><h2>Helm Experience & Design</h2><p><span class="location">📍Buffalo</span> <span class="site">👁helmux.com/</span></p></a></li>
   <li><a href="https://www.hlamarketing.com"><h2>HLA</h2><p><span class="location">📍Elmira</span> <span class="site">👁hlamarketing.com</span></p></a></li>
 
   <li><a href="http://www.irondesign.com"><h2>Iron Design</h2><p><span class="location">📍Ithaca</span> <span class="site">👁irondesign.com</span></p></a></li>
@@ -92,8 +94,10 @@
   <li><a href="http://otherwisz.com"><h2>OtherWisz Creative</h2><p><span class="location">📍Buffalo</span> <span class="site">👁otherwisz.com</span></p></a></li>
 
   <li><a href="http://readymixdesign.com"><h2>Ready Mix Design + Letterpress</h2><p><span class="location">📍Troy</span> <span class="site">👁readymixdesign.com</span></p></a></li>
+  <li><a href="http://rosellastudio.com"><h2>Rosella Studio</h2><p><span class="location">📍Rochester</span> <span class="site">👁rosellastudio.com</span></p></a></li>
   <li><a href="http://rtistrybydesign.com"><h2>Rtistry By Design</h2><p><span class="location">📍Binghamton</span> <span class="site">👁rtistrybydesign.com</span></p></a></li>
 
+  <li><a href="https://www.shirari.com"><h2>Shirari Industries</h2><p><span class="location">📍Ithaca</span> <span class="site">👁shirari.com</span></p></a></li>
   <li><a href="https://www.sidekickcreative.us/"><h2>Sidekick Creative</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁sidekickcreative.us</span></p></a></li>
   <li><a href="http://spiraldesign.com"><h2>Spiral Design Studio</h2><p><span class="location">📍Cohoes</span> <span class="site">👁spiraldesign.com</span></p></a></li>
 
@@ -110,6 +114,7 @@
   <li><a href="https://varietystudios.com"><h2>Variety Studios</h2><p><span class="location">📍Syracuse</span> <span class="site">👁varietystudios.com</span></p></a></li>
 
   <li><a href="https://whitebicycle.com"><h2>White Bicycle</h2><p><span class="location">📍Buffalo</span> <span class="site">👁whitebicycle.com</span></p></a></li>
+  <li><a href="https://www.yourworkshop.com"><h2>Workshop</h2><p><span class="location">📍Saratoga Springs</span> <span class="site">👁yourworkshop.com</span></p></a></li>
 
   <li><a href="http://zanzinato.com"><h2>Zanzinato</h2><p><span class="location">📍Ithaca</span> <span class="site">👁zanzinato.com</span></p></a></li>
 </ul></div>
@@ -118,19 +123,23 @@
   <ul>
   <h3>People</h3>
   <li><a href="http://www.lunchboxbrain.com"><h2>Andrew Gregory</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁lunchboxbrain.com</span></p></a></li>
+  <li><a href="https://dribbble.com/Annedolfi"><h2>Annemarie Dolfi</h2><p><span class="location">📍Albany</span> <span class="site">👁dribbble.com/Annedolfi</span></p></a></li>
+  <li><a href="http://daniellepod.dunked.com"><h2>Danielle Podeszek</h2><p><span class="location">📍Buffalo</span> <span class="site">👁daniellepod.dunked.com</span></p></a></li>
   <li><a href="http://www.emilyborst.com"><h2>Emily Borst</h2><p><span class="location">📍Schenectady</span> <span class="site">👁emilyborst.com</span></p></a></li>
   <li><a href="http://jesse.paris"><h2>Jesse Reichenstein</h2><p><span class="location">📍Rochester</span> <span class="site">👁jesse.paris</span></p></a></li>
   <li><a href="http://joshrigney.com"><h2>Josh Rigney</h2><p><span class="location">📍Kingston</span> <span class="site">👁joshrigney.com</span></p></a></li>
+  <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁jDusett.co</span></p></a></li>
   <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁kristinderby.com</span></p></a></li>
   <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁pjengel.com</span></p></a></li>
   <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁keating.design</span></p></a></li>
+  <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁shawnlockwood.com</span></p></a></li>
 
 </ul>
 </div>
 </section>
 <footer id="footer">
 <p>Upstate studio/designer? <a href="https://forms.gle/6AirzT68TySgaxWS9">Submit here.</a><br />
-  Latest Update: 18 November 2019<br />
+  Latest Update: 21 November 2019<br />
 Made by <a href="https://www.madebytyler.com">Tyler</a><br />
 This is on <a href="https://github.com/sursly/upstatedesign">Github</a>
 </p>
