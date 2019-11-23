@@ -47,6 +47,8 @@
   <li><a href="https://adgcreative.design"><h2>ADG Creative</h2><p><span class="location">📍Albany</span> <span class="site">👁adgcreative.design</span></p></a></li>
   <li><a href="http://www.weareadjacent.com"><h2>Adjacent</h2><p><span class="location">📍Syracuse</span> <span class="site">👁weareadjacent.com</span></p></a></li>
   <li><a href="https://advokate.net"><h2>Advokate</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁advokate.net</span></p></a></li>
+  <li><a href="http://markabove.com"><h2>A Mark Above</h2><p><span class="location">📍Utica</span> <span class="site">👁markabove.com</span></p></a></li>
+
   <li><a href="https://www.arcuridesignshop.com"><h2>Arcuri Design Shop</h2><p><span class="location">📍Gansevoort</span> <span class="site">👁arcuridesignshop.com</span></p></a></li>
   <li><a href="https://www.ashleyadesigns.com"><h2>Ashley A Designs</h2><p><span class="location">📍Ballston Lake</span> <span class="site">👁ashleyadesigns.com</span></p></a></li>
   <li><a href="https://www.aslancreativestudio.com"><h2>Aslan Creative Studio</h2><p><span class="location">📍Albany</span> <span class="site">👁aslancreativestudio.com</span></p></a></li>
@@ -106,6 +108,7 @@
   <li><a href="http://thirstyfishgraphicdesign.com"><h2>Thirsty Fish</h2><p><span class="location">📍Corning</span> <span class="site">👁thirstyfishgraphicdesign.com</span></p></a></li>
   <li><a href="https://www.tonecreative.com"><h2>Tone Creative</h2><p><span class="location">📍Saratoga Springs</span> <span class="site">👁tonecreative.com</span></p></a></li>
   <li><a href="http://trampolinedesign.com"><h2>Trampoline</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁trampolinedesign.com</span></p></a></li>
+  <li><a href="https://truthcollective.com"><h2>Truth Collective</h2><p><span class="location">📍Rochester</span> <span class="site">👁truthcollective.com</span></p></a></li>
   <li><a href="http://typeworkstudio.com"><h2>Typework Studio</h2><p><span class="location">📍Buffalo</span> <span class="site">👁typeworkstudio.com</span></p></a></li>
 
   <li><a href="https://upsidecollective.com"><h2>Upside Collective</h2><p><span class="location">📍Albany</span> <span class="site">👁upsidecollective.com</span></p></a></li>
@@ -131,6 +134,7 @@
   <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁jDusett.co</span></p></a></li>
   <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁kristinderby.com</span></p></a></li>
   <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁pjengel.com</span></p></a></li>
+  <li><a href="http://reneestevens.design"><h2>Renée Stevens</h2><p><span class="location">📍Syracuse</span> <span class="site">👁reneestevens.design</span></p></a></li>
   <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁keating.design</span></p></a></li>
   <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁shawnlockwood.com</span></p></a></li>
 
