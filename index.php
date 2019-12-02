@@ -70,6 +70,7 @@
   <li><a href="http://www.do-design-creative.com/"><h2>Do Design Creative</h2><p><span class="location">📍Buffalo</span> <span class="site">👁do-design-creative.com</span></p></a></li>
 
   <li><a href="http://elevation10k.com"><h2>Elevation 10 Thousand</h2><p><span class="location">📍Latham</span> <span class="site">👁elevation10k.com</span></p></a></li>
+  <li><a href="http://elidacreative.com"><h2>Elida Creative</h2><p><span class="location">📍Ballston Lake</span> <span class="site">👁elidacreative.com</span></p></a></li>
   <li><a href="http://www.etc.supply"><h2>Etcetera Type Co.</h2><p><span class="location">📍Ithaca</span> <span class="site">👁etc.supply</span></p></a></li>
 
   <li><a href="http://www.freshysites.com"><h2>Freshy Sites</h2><p><span class="location">📍Binghamton</span> <span class="site">👁freshysites.com</span></p></a></li>
@@ -89,6 +90,7 @@
 
   <li><a href="http://www.tothelab.co"><h2>The Lab Creative</h2><p><span class="location">📍Syracuse</span> <span class="site">👁tothelab.co</span></p></a></li>
 
+  <li><a href="http://www.mcgrogandesign.com"><h2>McGrogan Design</h2><p><span class="location">📍Utica</span> <span class="site">👁mcgrogandesign.com</span></p></a></li>
   <li><a href="http://www.minervadesign.com"><h2>Minerva</h2><p><span class="location">📍Rochester</span> <span class="site">👁minervadesign.com</span></p></a></li>
   <li><a href="http://www.moonfarmer.com"><h2>Moonfarmer</h2><p><span class="location">📍Kingston</span> <span class="site">👁moonfarmer.com</span></p></a></li>
   <li><a href="https://mpwmarketing.com"><h2>MPW</h2><p><span class="location">📍Clinton</span> <span class="site">👁mpwmarketing.com</span></p></a></li>
@@ -125,6 +127,7 @@
 <div id="people">
   <ul>
   <h3>People</h3>
+  <li><a href="http://www.andreivanchuk.com"><h2>Andre Ivanchuk</h2><p><span class="location">📍Skaneateles</span> <span class="site">👁andreivanchuk.com</span></p></a></li>
   <li><a href="http://www.lunchboxbrain.com"><h2>Andrew Gregory</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁lunchboxbrain.com</span></p></a></li>
   <li><a href="https://dribbble.com/Annedolfi"><h2>Annemarie Dolfi</h2><p><span class="location">📍Albany</span> <span class="site">👁dribbble.com/Annedolfi</span></p></a></li>
   <li><a href="http://daniellepod.dunked.com"><h2>Danielle Podeszek</h2><p><span class="location">📍Buffalo</span> <span class="site">👁daniellepod.dunked.com</span></p></a></li>
@@ -134,9 +137,11 @@
   <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁jDusett.co</span></p></a></li>
   <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁kristinderby.com</span></p></a></li>
   <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁pjengel.com</span></p></a></li>
+  <li><a href="http://www.qcassetti.com"><h2>Q. Cassetti</h2><p><span class="location">📍Trumansburg</span> <span class="site">👁qcassetti.com</span></p></a></li>
   <li><a href="http://reneestevens.design"><h2>Renée Stevens</h2><p><span class="location">📍Syracuse</span> <span class="site">👁reneestevens.design</span></p></a></li>
   <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁keating.design</span></p></a></li>
   <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁shawnlockwood.com</span></p></a></li>
+  <li><a href="http://www.tylerfinck.com"><h2>Tyler Finck</h2><p><span class="location">📍Ithaca</span> <span class="site">👁tylerfinck.com</span></p></a></li>
 
 </ul>
 </div>
