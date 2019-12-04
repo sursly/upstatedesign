@@ -149,7 +149,7 @@
 </section>
 <footer id="footer">
 <p>Upstate studio/designer? <a href="https://forms.gle/6AirzT68TySgaxWS9">Submit here.</a><br />
-  Latest Update: 21 November 2019<br />
+  Latest Update: December 2019<br />
 Made by <a href="https://www.madebytyler.com">Tyler</a><br />
 This is on <a href="https://github.com/sursly/upstatedesign">Github</a>
 </p>
