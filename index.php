@@ -127,6 +127,7 @@
 <div id="people">
   <ul>
   <h3>People</h3>
+  <li><a href="https://www.moorestudioarts.com"><h2>Alycia Moore</h2><p><span class="location">📍Buffalo</span> <span class="site">👁moorestudioarts.com</span></p></a></li>
   <li><a href="http://www.andreivanchuk.com"><h2>Andre Ivanchuk</h2><p><span class="location">📍Skaneateles</span> <span class="site">👁andreivanchuk.com</span></p></a></li>
   <li><a href="http://www.lunchboxbrain.com"><h2>Andrew Gregory</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁lunchboxbrain.com</span></p></a></li>
   <li><a href="https://dribbble.com/Annedolfi"><h2>Annemarie Dolfi</h2><p><span class="location">📍Albany</span> <span class="site">👁dribbble.com/Annedolfi</span></p></a></li>
