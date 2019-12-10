@@ -143,13 +143,14 @@
   <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁keating.design</span></p></a></li>
   <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁shawnlockwood.com</span></p></a></li>
   <li><a href="http://www.tylerfinck.com"><h2>Tyler Finck</h2><p><span class="location">📍Ithaca</span> <span class="site">👁tylerfinck.com</span></p></a></li>
+  <li><a href="http://www.attentionspan.com"><h2>Tyson Law</h2><p><span class="location">📍Ithaca</span> <span class="site">👁attentionspan.com</span></p></a></li>
 
 </ul>
 </div>
 </section>
 <footer id="footer">
 <p>Upstate studio/designer? <a href="https://forms.gle/6AirzT68TySgaxWS9">Submit here.</a><br />
-  Latest Update: December 2019<br />
+  Latest Update: December 10, 2019<br />
 Made by <a href="https://www.madebytyler.com">Tyler</a><br />
 This is on <a href="https://github.com/sursly/upstatedesign">Github</a>
 </p>
