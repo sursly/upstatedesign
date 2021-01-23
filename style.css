@@ -1,22 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,300;0,500;0,700;1,700&display=swap');
+
+
 /*reset*/a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 
 body {
   font-family: "Courier New", Courier, Monaco, "Lucida Console", monospace;
   line-height: 1.5;
-  background-color: #ffd757;
-  background-image: url("upstateplaid.svg");
+  background-color: #000;
   background-repeat:repeat-x;
   background-position: top center;
   background-size: 70px auto;
   background-attachment: fixed;
-  color: black;
-}
-@font-face {
-    font-family: 'Epilogue';
-    src: url(Epilogue[slnt,wght].woff2) format("woff2-variations");
-    font-style: normal;
+  color: #eee;
 }
 
+svg#logo {
+  width: 200px;
+height: 200px;
+margin: 50px auto 0;
+display: block;
+}
 
 a {
   text-decoration: none;
@@ -26,21 +29,23 @@ a {
 p#timecheck {
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 11px;
+  font-size: 13px;
 transform: rotate(-90deg);
 position: fixed;
 right: -45px;
 bottom: 95px;
 }
 
-li a {color: black;    text-decoration: none;
+li a {color: white;    text-decoration: none;
 transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
 }
 
 h1 {
-  margin: 8vw auto 6vw;
+  margin: 4vw auto;
+  text-align: center;
+
 }
 
 #page, h1 {
@@ -56,21 +61,20 @@ ul {
 li h2, li p {display: inline-block; vertical-align: middle;}
 
 li h2 {
-  font-size: 2.5vw;
+  font-size: calc(13px + 1.5vw);
   text-transform: capitalize;
-  font-family: "Epilogue";
-  font-variation-settings: "wght" 750, "slnt" -8;
+  font-family: 'Epilogue', sans-serif;
+  font-weight: 700;
   font-style: normal;
   width: 44%;
   position: relative;
   z-index: 1;
   font-feature-settings: "ss01";
+  line-height: 1;
 }
 
-li a:hover h2 {
-  font-variation-settings: "wght" 750, "slnt" 0;
 
-}
+
 span.location {
   width: 45%;
   display: inline-block;
@@ -78,19 +82,21 @@ span.location {
 }
 
 li p {
-  font-size: 14px;
+  font-size: 16px;
   width: 55%;
   letter-spacing: .5px;
 }
 
 
 
-li a {display: block; padding: 1vw;}
+li a {display: block; padding: 2vw 1vw;}
 
 li a:hover {
-  background: rgba(255,255,255,1);
+  background: #00ff95;
 /*transform: scale(1.02);*/
+  color: black;
 }
+
 
 li a:hover p {
   font-weight: bold;
@@ -99,8 +105,8 @@ li a:hover p {
 h1 {
   font-size: 1.75vw;
 
-  font-family: "Epilogue";
-font-variation-settings: "wght" 300, "slnt" 0;
+  font-family: 'Epilogue', sans-serif;
+font-weight: 300;
 }
 
 #footer p {
@@ -111,8 +117,10 @@ font-variation-settings: "wght" 300, "slnt" 0;
 
 #footer p a {
   font-weight: bold;
-  color: black;
-  text-decoration: underline;
+  color: white;
+}
+#footer p a:hover {
+  color: #00ff95;
 }
 
 
@@ -129,7 +137,7 @@ nav a {
   padding: 5px 0;
   margin: 0 10px 0 0;
   display: inline-block;
-  color: black;
+  color: white;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -137,15 +145,20 @@ nav a {
 }
 
 div h3 {
-  font-size: 2vw;
-  background: black;
-  color: #ffd757;
+  font-size: 18px;
+  background: white;
+  color: black;
   padding: 1vw;
   position: sticky;
   top: 0px;
   z-index: 2;
   margin-bottom: 4vw;
   line-height: 1;
+  font-family: 'Epilogue', sans-serif;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-variant: small-caps;
 }
 
 
@@ -169,7 +182,6 @@ div h4 {
 
 @media screen and (max-width: 1023px) {
 body {
-  padding-top: 100px;
 }
 
 nav {
@@ -177,7 +189,7 @@ nav {
 }
 
 nav a {
-  background-color: #ffd757;
+  background-color: black;
 }
 
 div#studios, div#people {
@@ -185,7 +197,6 @@ div#studios, div#people {
 }
 
 div h3 {
-  font-size: 18px;
 }
 
 li h2 {font-size: 22px;}
@@ -194,6 +205,7 @@ li h2, li p, span.location {display: block; width: 100%;}
 
 h1 {
   font-size: 18px;
+  text-align: left;
   margin: 20px auto;
 }
 
@@ -210,6 +222,19 @@ li p {
 
 li {
   margin-bottom: 20px;
+}
+
+div h3 {
+  width: 100vw;
+margin: 0 -5vw 2em;
+text-indent: 5vw;
+padding: 2vw 0;
+}
+
+svg#logo {
+  width: 100px;
+height: 100px;
+margin: 50px 5vw;
 }
 
 }

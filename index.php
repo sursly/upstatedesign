@@ -10,7 +10,7 @@
 <meta property="og:url" content="https://www.upstate.design"/>
 <meta property="og:type" content="website"/>
 <meta property="og:description" content="Abridged and Unofficial Directory of the “Upstate” New York Graphic Design Community"/>
-<meta property="og:image" content="https://upstate.design/upstate-card.png">
+<meta property="og:image" content="https://upstate.design/upstate-card-new.png">
 <meta itemprop="name" content="Upstate Design"/>
 <meta itemprop="headline" content="Upstate Design"/>
 <meta itemprop="description" content="Abridged and Unofficial Directory of the “Upstate” New York Graphic Design Community"/>
@@ -19,7 +19,7 @@
 <meta name="twitter:url" content="https://www.upstate.design"/>
 <meta name="twitter:description" content="Abridged and Unofficial Directory of the “Upstate” New York Graphic Design Community"/>
 <meta name="twitter:site" content="@typeler"/>
-<meta name="twitter:image" content="https://upstate.design/upstate-card.png">
+<meta name="twitter:image" content="https://upstate.design/upstate-card-new.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
@@ -31,13 +31,41 @@
 <link rel="stylesheet" media="all" href="style.css" />
 </head>
 <body>
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375.1 348.7"><defs><style>.a{fill:#fff;}</style></defs><path class="a" d="M198.4,297.8c16.1-6.7,22.2-23.7,22.2-44.9a16.4,16.4,0,0,0-.2-2.3V244l-.3-147.4-34.8-18,.3,155.1v12.9c-.9,12.1-6,26.4-19.1,32.2l-2.2,1s-27.2,11.3-43,14.6a83.1,83.1,0,0,1-26.8,1.2,74.1,74.1,0,0,1-25.6-7.9c-9.5-4.9-14.4-10-14.6-15.2s4-10.2,12.6-15.1c5-2.8,9-4.8,28.4-12.6,16.2-6.7,22.1-21,22.1-42.1,0-.3.1-5.1.1-7.5l-.3-151.9-34.8-18,.3,149.6v15.8c0,20.3-5,28.5-19.1,34.8a6.8,6.8,0,0,0-1.7.9c-28.8,12.3-41,21.9-45.7,33.7s1,35.5,17.5,46S90,330.3,138.6,317.9C155.4,313.6,167.4,310.2,198.4,297.8Z" transform="translate(-14.4 -25.3)"/><path class="a" d="M353.3,169.6c-6.4-6-20.1-14.4-40.9-25.2l-55.9-29,.3,166.2c-.6,12.5-5.4,27.3-19.1,33.4L137.1,356l34.8,18,97-39.6c16.2-6.7,22.8-19.2,22.8-40.3v-1.2l22.7,11.7c42.8,20.9,75.2-12.7,75.2-48.1C389.6,202.2,363.5,179.2,353.3,169.6Zm-4.9,103.7c-2.9,4.8-6.7,7.3-11.4,7.3s-13.4-3.3-26.3-10l-19.2-9.9V180.8l16.9,8.7c14.5,7.6,24,13.6,28.5,18.1s8.3,10.8,11.3,18.7a69.4,69.4,0,0,1,4.7,26C352.8,261.5,351.3,268.6,348.4,273.3Z" transform="translate(-14.4 -25.3)"/></svg>
   <h1 id="title">The Abridged and Unofficial Directory of the “Upstate” New York Graphic Design Community</h1>
   <p id="timecheck">Local Time:
   <?php $estTime = (new DateTime('America/New_York'))->format('h:i');
   echo $estTime;
   ?></p>
-<nav><a href="#studios">Studios</a><a href="#people">People</a></nav>
+<!--<nav><a href="#studios">Studios</a><a href="#people">People</a></nav>-->
 <section id="page">
+
+  <div id="people">
+    <ul>
+    <h3>People</h3>
+    <li><a href="https://www.aidenguinnip.com"><h2>Aiden Guinnip</h2><p><span class="location">📍Rochester</span> <span class="site">👁 aidenguinnip.com</span></p></a></li>
+    <li><a href="https://www.moorestudioarts.com"><h2>Alycia Moore</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 moorestudioarts.com</span></p></a></li>
+    <li><a href="http://www.andreivanchuk.com"><h2>Andre Ivanchuk</h2><p><span class="location">📍Skaneateles</span> <span class="site">👁 andreivanchuk.com</span></p></a></li>
+    <li><a href="http://www.lunchboxbrain.com"><h2>Andrew Gregory</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁 lunchboxbrain.com</span></p></a></li>
+    <li><a href="https://dribbble.com/Annedolfi"><h2>Annemarie Dolfi</h2><p><span class="location">📍Albany</span> <span class="site">👁 dribbble.com/Annedolfi</span></p></a></li>
+    <li><a href="http://www.bertholt.design"><h2>Bertholt Schroeder</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 bertholt.design</span></p></a></li>
+    <li><a href="http://daniellepod.dunked.com"><h2>Danielle Podeszek</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 daniellepod.dunked.com</span></p></a></li>
+    <li><a href="http://www.emilyborst.com"><h2>Emily Borst</h2><p><span class="location">📍Schenectady</span> <span class="site">👁 emilyborst.com</span></p></a></li>
+    <li><a href="http://jesse.paris"><h2>Jesse Reichenstein</h2><p><span class="location">📍Rochester</span> <span class="site">👁 jesse.paris</span></p></a></li>
+    <li><a href="http://joshrigney.com"><h2>Josh Rigney</h2><p><span class="location">📍Kingston</span> <span class="site">👁 joshrigney.com</span></p></a></li>
+    <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁 jDusett.co</span></p></a></li>
+    <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 kristinderby.com</span></p></a></li>
+    <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁 pjengel.com</span></p></a></li>
+    <li><a href="http://www.qcassetti.com"><h2>Q. Cassetti</h2><p><span class="location">📍Trumansburg</span> <span class="site">👁 qcassetti.com</span></p></a></li>
+    <li><a href="http://reneestevens.design"><h2>Renée Stevens</h2><p><span class="location">📍Syracuse</span> <span class="site">👁 reneestevens.design</span></p></a></li>
+    <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁 keating.design</span></p></a></li>
+    <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁 shawnlockwood.com</span></p></a></li>
+    <li><a href="http://www.madebytyler.com"><h2>Tyler Finck</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 madebytyler.com</span></p></a></li>
+    <li><a href="http://www.attentionspan.com"><h2>Tyson Law</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 attentionspan.com</span></p></a></li>
+
+  </ul>
+  </div>
+
   <div id="studios">
   <ul>
   <h3>Studios</h3>
@@ -57,6 +85,8 @@
   <li><a href="https://blackdogllc.com"><h2>Black Dog</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁 blackdogllc.com</span></p></a></li>
   <li><a href="http://www.blockclub.co"><h2>Block Club</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 blockclub.co</span></p></a></li>
   <li><a href="https://www.buffalodesignstudio.com"><h2>Buffalo Design Studio</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 buffalodesignstudio.com</span></p></a></li>
+  <li><a href="http://butlertill.com"><h2>Buttler/Till</h2><p><span class="location">📍Rochester</span> <span class="site">👁 butlertill.com</span></p></a></li>
+
   <li><a href="http://www.bzdesign.com"><h2>BZDesign</h2><p><span class="location">📍Rochester</span> <span class="site">👁 bzdesign.com</span></p></a></li>
 
   <li><a href="https://camilographics.com"><h2>Camillo Graphics</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 camilographics.com</span></p></a></li>
@@ -67,6 +97,10 @@
   <li><a href="https://www.crescendodesignstudio.com"><h2>Crescendo Design Studio</h2><p><span class="location">📍Batavia</span> <span class="site">👁 crescendodesignstudio.com</span></p></a></li>
 
   <li><a href="http://www.dakisdesignstudio.com"><h2>Dakis Design Studio</h2><p><span class="location">📍Malta</span> <span class="site">👁 dakisdesignstudio.com</span></p></a></li>
+
+  <li><a href="http://www.datalands.co"><h2>Datalands</h2><p><span class="location">📍Pine Bush</span> <span class="site">👁 datalands.co</span></p></a></li>
+
+
   <li><a href="http://www.do-design-creative.com/"><h2>Do Design Creative</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 do-design-creative.com</span></p></a></li>
 
   <li><a href="http://elevation10k.com"><h2>Elevation 10 Thousand</h2><p><span class="location">📍Latham</span> <span class="site">👁 elevation10k.com</span></p></a></li>
@@ -87,6 +121,8 @@
 
   <li><a href="https://www.kennason.com"><h2>Kennason UX Consulting</h2><p><span class="location">📍Albany</span> <span class="site">👁 kennason.com</span></p></a></li>
   <li><a href="https://kingcrabdesigns.com"><h2>King Crab Designs</h2><p><span class="location">📍Glens Falls</span> <span class="site">👁 kingcrabdesigns.com</span></p></a></li>
+
+  <li><a href="https://www.krum.marketing"><h2>Krum. Marketing</h2><p><span class="location">📍Troy</span> <span class="site">👁 krum.marketing</span></p></a></li>
 
   <li><a href="http://www.tothelab.co"><h2>The Lab Creative</h2><p><span class="location">📍Syracuse</span> <span class="site">👁 tothelab.co</span></p></a></li>
 
@@ -124,40 +160,16 @@
   <li><a href="http://zanzinato.com"><h2>Zanzinato</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 zanzinato.com</span></p></a></li>
 </ul></div>
 
-<div id="people">
-  <ul>
-  <h3>People</h3>
-  <li><a href="https://www.moorestudioarts.com"><h2>Alycia Moore</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 moorestudioarts.com</span></p></a></li>
-  <li><a href="http://www.andreivanchuk.com"><h2>Andre Ivanchuk</h2><p><span class="location">📍Skaneateles</span> <span class="site">👁 andreivanchuk.com</span></p></a></li>
-  <li><a href="http://www.lunchboxbrain.com"><h2>Andrew Gregory</h2><p><span class="location">📍Rensselaer</span> <span class="site">👁 lunchboxbrain.com</span></p></a></li>
-  <li><a href="https://dribbble.com/Annedolfi"><h2>Annemarie Dolfi</h2><p><span class="location">📍Albany</span> <span class="site">👁 dribbble.com/Annedolfi</span></p></a></li>
-  <li><a href="http://daniellepod.dunked.com"><h2>Danielle Podeszek</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 daniellepod.dunked.com</span></p></a></li>
-  <li><a href="http://www.emilyborst.com"><h2>Emily Borst</h2><p><span class="location">📍Schenectady</span> <span class="site">👁 emilyborst.com</span></p></a></li>
-  <li><a href="http://jesse.paris"><h2>Jesse Reichenstein</h2><p><span class="location">📍Rochester</span> <span class="site">👁 jesse.paris</span></p></a></li>
-  <li><a href="http://joshrigney.com"><h2>Josh Rigney</h2><p><span class="location">📍Kingston</span> <span class="site">👁 joshrigney.com</span></p></a></li>
-  <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁 jDusett.co</span></p></a></li>
-  <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 kristinderby.com</span></p></a></li>
-  <li><a href="http://www.pjengel.com"><h2>PJ Engel</h2><p><span class="location">📍Schenectady</span> <span class="site">👁 pjengel.com</span></p></a></li>
-  <li><a href="http://www.qcassetti.com"><h2>Q. Cassetti</h2><p><span class="location">📍Trumansburg</span> <span class="site">👁 qcassetti.com</span></p></a></li>
-  <li><a href="http://reneestevens.design"><h2>Renée Stevens</h2><p><span class="location">📍Syracuse</span> <span class="site">👁 reneestevens.design</span></p></a></li>
-  <li><a href="http://keating.design"><h2>Shauna Keating</h2><p><span class="location">📍Kingston</span> <span class="site">👁 keating.design</span></p></a></li>
-  <li><a href="http://shawnlockwood.com"><h2>Shawn Lockwood</h2><p><span class="location">📍Utica</span> <span class="site">👁 shawnlockwood.com</span></p></a></li>
-  <li><a href="http://www.tylerfinck.com"><h2>Tyler Finck</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 tylerfinck.com</span></p></a></li>
-  <li><a href="http://www.attentionspan.com"><h2>Tyson Law</h2><p><span class="location">📍Ithaca</span> <span class="site">👁 attentionspan.com</span></p></a></li>
 
-</ul>
-</div>
 </section>
 <footer id="footer">
 <p>Upstate studio/designer? <a href="https://forms.gle/6AirzT68TySgaxWS9">Submit here.</a><br />
-  Latest Update: April 11, 2020<br />
+  Latest Update: January 2021<br />
 Made by <a href="https://www.madebytyler.com">Tyler</a><br />
 This is on <a href="https://github.com/sursly/upstatedesign">Github</a>
 </p>
 
 </footer>
-
-
 
 
 </body>
