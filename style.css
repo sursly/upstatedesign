@@ -1,10 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,300;0,500;0,700;1,700&display=swap');
 
 
 /*reset*/a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 
+@font-face {
+ font-family: 'Anybody';
+ src: url('AnybodyVariable.woff2') format('woff2-variations');
+ font-weight: 100 900;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'Sono';
+ src: url('SonoVariable.woff2') format('woff2-variations');
+ font-weight: 200 800;
+ font-style: normal;
+}
+
 body {
-  font-family: "Courier New", Courier, Monaco, "Lucida Console", monospace;
+  font-family: 'Sono', "Courier New", Courier, Monaco, "Lucida Console", monospace;
   line-height: 1.5;
   background-color: #000;
   background-repeat:repeat-x;
@@ -61,16 +74,18 @@ ul {
 li h2, li p {display: inline-block; vertical-align: middle;}
 
 li h2 {
-  font-size: calc(13px + 1.5vw);
+  font-size: 80px;
   text-transform: capitalize;
-  font-family: 'Epilogue', sans-serif;
-  font-weight: 700;
+  font-family: 'Anybody', sans-serif;
+  font-weight: 500;
   font-style: normal;
   width: 44%;
   position: relative;
   z-index: 1;
-  font-feature-settings: "ss01";
   line-height: 1;
+  font-variation-settings: "wdth" 50, "wght" 350;
+  text-transform: uppercase;
+
 }
 
 
@@ -82,14 +97,15 @@ span.location {
 }
 
 li p {
-  font-size: 16px;
+  font-size: 18px;
   width: 55%;
   letter-spacing: .5px;
+  font-weight: 250;
 }
 
 
 
-li a {display: block; padding: 2vw 1vw;}
+li a {display: block; padding: 2vw 2vw 1.7vw;}
 
 li a:hover {
   background: #00ff95;
@@ -99,14 +115,14 @@ li a:hover {
 
 
 li a:hover p {
-  font-weight: bold;
+  font-weight: 550;
 }
 
 h1 {
-  font-size: 1.75vw;
-
-  font-family: 'Epilogue', sans-serif;
-font-weight: 300;
+  font-size: 1.1vw;
+  font-family: 'Anybody', sans-serif;
+  font-weight: 300;
+  font-variation-settings: "wght" 600, "wdth" 150;
 }
 
 #footer p {
@@ -145,7 +161,7 @@ nav a {
 }
 
 div h3 {
-  font-size: 18px;
+  font-size: 16px;
   background: white;
   color: black;
   padding: 1vw;
@@ -154,11 +170,12 @@ div h3 {
   z-index: 2;
   margin-bottom: 4vw;
   line-height: 1;
-  font-family: 'Epilogue', sans-serif;
-  text-transform: lowercase;
+  text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 700;
   font-variant: small-caps;
+  font-family: 'Anybody';
+  font-weight: 600;
+  font-variation-settings: "wdth" 150;
 }
 
 
@@ -199,12 +216,12 @@ div#studios, div#people {
 div h3 {
 }
 
-li h2 {font-size: 22px;}
+li h2 {font-size: 70px;}
 
 li h2, li p, span.location {display: block; width: 100%;}
 
 h1 {
-  font-size: 18px;
+  font-size: 14px;
   text-align: left;
   margin: 20px auto;
 }
