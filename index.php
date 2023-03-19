@@ -50,6 +50,9 @@
     <li><a href="http://www.bertholt.design"><h2>Bertholt Schroeder</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 bertholt.design</span></p></a></li>
     <li><a href="http://daniellepod.dunked.com"><h2>Danielle Podeszek</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 daniellepod.dunked.com</span></p></a></li>
     <li><a href="http://www.emilyborst.com"><h2>Emily Borst</h2><p><span class="location">📍Schenectady</span> <span class="site">👁 emilyborst.com</span></p></a></li>
+
+    <li><a href="https://www.ilanagriffo.com/"><h2>Ilana Griffo</h2><p><span class="location">📍Rochester</span> <span class="site">👁 ilanagriffo.com/</span></p></a></li>
+
     <li><a href="http://joshrigney.com"><h2>Josh Rigney</h2><p><span class="location">📍Kingston</span> <span class="site">👁 joshrigney.com</span></p></a></li>
     <li><a href="http://jDusett.co"><h2>Justin Dusett</h2><p><span class="location">📍Rochester</span> <span class="site">👁 jDusett.co</span></p></a></li>
     <li><a href="http://kristinderby.com"><h2>Kristin Derby</h2><p><span class="location">📍Buffalo</span> <span class="site">👁 kristinderby.com</span></p></a></li>
