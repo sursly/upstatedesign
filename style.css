@@ -49,7 +49,7 @@ right: -45px;
 bottom: 95px;
 }
 
-li a {color: white;    text-decoration: none;
+li a {color: #00ff95;    text-decoration: none;
 transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -136,7 +136,7 @@ h1 {
   color: white;
 }
 #footer p a:hover {
-  color: #111;
+  color: #fff;
 }
 
 
@@ -162,7 +162,7 @@ nav a {
 
 div h3 {
   font-size: 16px;
-  background: white;
+  background: #00ff95;
   color: black;
   padding: 1vw;
   position: sticky;
