@@ -24,7 +24,7 @@ body {
   background-position: top center;
   background-size: 70px auto;
   background-attachment: fixed;
-  color: #eee;
+  color: #00ff95;
 }
 
 svg#logo {
@@ -108,7 +108,7 @@ li p {
 li a {display: block; padding: 2vw 2vw 1.7vw;}
 
 li a:hover {
-  background: #00ff95;
+  background: #fff;
 /*transform: scale(1.02);*/
   color: black;
 }
@@ -136,7 +136,7 @@ h1 {
   color: white;
 }
 #footer p a:hover {
-  color: #00ff95;
+  color: #111;
 }
 
 
