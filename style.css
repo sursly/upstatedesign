@@ -91,7 +91,7 @@ li h2 {
 
 
 span.location {
-  width: 45%;
+  width: 35%;
   display: inline-block;
   text-transform: uppercase;
 }
@@ -99,7 +99,7 @@ span.location {
 li p {
   font-size: 18px;
   width: 55%;
-  letter-spacing: .5px;
+  letter-spacing: -0.5px;
   font-weight: 250;
 }
 
