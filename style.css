@@ -74,7 +74,7 @@ ul {
 li h2, li p {display: inline-block; vertical-align: middle;}
 
 li h2 {
-  font-size: 80px;
+  font-size: 90px;
   text-transform: capitalize;
   font-family: 'Anybody', sans-serif;
   font-weight: 500;
@@ -82,10 +82,11 @@ li h2 {
   width: 44%;
   position: relative;
   z-index: 1;
-  line-height: 1;
-  font-variation-settings: "wdth" 50, "wght" 350;
+  line-height: .8;
+  font-variation-settings: "wdth" 50, "wght" 440;
   text-transform: uppercase;
-
+-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 
@@ -164,7 +165,7 @@ div h3 {
   font-size: 16px;
   background: #00ff95;
   color: black;
-  padding: 1vw;
+  padding: 1vw 2vw;
   position: sticky;
   top: 0px;
   z-index: 2;
@@ -235,6 +236,7 @@ div#studios, div#people {
 }
 li p {
   font-size: 15px;
+  letter-spacing: 1px;
 }
 
 li {
@@ -245,7 +247,7 @@ div h3 {
   width: 100vw;
 margin: 0 -5vw 2em;
 text-indent: 5vw;
-padding: 2vw 0;
+padding: 3vw 2vw;
 }
 
 svg#logo {
