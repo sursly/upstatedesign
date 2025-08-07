@@ -19,12 +19,12 @@
 body {
   font-family: 'Sono', "Courier New", Courier, Monaco, "Lucida Console", monospace;
   line-height: 1.5;
-  background-color: #FFD665;
+  background-color: #F5F3EF;
   background-repeat:repeat-x;
   background-position: top center;
   background-size: 70px auto;
   background-attachment: fixed;
-  color: #000000;
+  color: #222;
 }
 
 svg#logo {
@@ -83,10 +83,11 @@ li h2 {
   position: relative;
   z-index: 1;
   line-height: .8;
-  font-variation-settings: "wdth" 50, "wght" 440;
+  font-variation-settings: "wdth" 50, "wght" 520;
   text-transform: uppercase;
 -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 
@@ -105,12 +106,13 @@ li p {
 
 
 
-li a {display: block; padding: 2vw 2vw 1.7vw;}
+li a {display: block; padding: 2vw 2vw 1.7vw;   border-radius: 5em;
+}
 
 li a:hover {
   background: #fff;
 /*transform: scale(1.02);*/
-  color: black;
+  color: #222;
 }
 
 
@@ -122,7 +124,7 @@ h1 {
   font-size: 1.1vw;
   font-family: 'Anybody', sans-serif;
   font-weight: 300;
-  font-variation-settings: "wght" 600, "wdth" 150;
+  font-variation-settings: "wght" 700, "wdth" 150;
 }
 
 #footer p {
@@ -160,16 +162,16 @@ nav a {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #222;
 }
 
 div h3 {
   font-size: 16px;
-  background: white;
-  color: black;
+  background: rgba(245,243,239,.5);
+  color: #222;
   padding: 1vw 2vw;
   position: sticky;
-  top: 0px;
+  top: 20px;
   z-index: 2;
   margin-bottom: 4vw;
   line-height: 1;
@@ -179,6 +181,9 @@ div h3 {
   font-family: 'Anybody';
   font-weight: 600;
   font-variation-settings: "wdth" 150;
+  border: 2px solid #222;
+  border-radius: 3em;
+  backdrop-filter: blur(19px);
 }
 
 
@@ -208,8 +213,12 @@ nav {
   top: 50px;
 }
 
+li a {
+  text-align: center;
+}
+
 nav a {
-  background-color: black;
+  background-color: #222;
 }
 
 div#studios, div#people {
@@ -219,7 +228,7 @@ div#studios, div#people {
 div h3 {
 }
 
-li h2 {font-size: 70px;}
+li h2 {font-size: 80px;}
 
 li h2, li p, span.location {display: block; width: 100%;}
 
@@ -242,20 +251,25 @@ li p {
 }
 
 li {
-  margin-bottom: 20px;
+  margin-bottom: 35px;
+}
+
+h1 {
+  text-align: center;
+  font-variation-settings: "wght" 700, "wdth" 130;
 }
 
 div h3 {
-  width: 100vw;
-margin: 0 -5vw 2em;
-text-indent: 5vw;
-padding: 3vw 2vw;
+width: calc(100% - 4vw);
+    text-indent: 0;
+    text-align: center;
+    padding: 3vw 2vw;
 }
 
 svg#logo {
-  width: 100px;
-height: 100px;
-margin: 50px 5vw;
+width: 250px;
+    height: 250px;
+    margin: 50px auto;
 }
 
 }
